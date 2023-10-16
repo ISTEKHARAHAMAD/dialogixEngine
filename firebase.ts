@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAu6c-Vx3UREm7Pvzeva21OWCT5xPEhQzE",
-    authDomain: "dialogixengine.firebaseapp.com",
-    projectId: "dialogixengine",
-    storageBucket: "dialogixengine.appspot.com",
-    messagingSenderId: "432277787249",
-    appId: "1:432277787249:web:8f7d337e4721f04de781d0"
+    apiKey: "AIzaSyCz8B_n14Z6n_GVXwWVMtojazkPUPe6d-c",
+    authDomain: "dialogixengine-f4f5d.firebaseapp.com",
+    projectId: "dialogixengine-f4f5d",
+    storageBucket: "dialogixengine-f4f5d.appspot.com",
+    messagingSenderId: "998899468840",
+    appId: "1:998899468840:web:7c34ad92e2c086fdaf431d"
 };
 
 // Initialize Firebase

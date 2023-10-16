@@ -28,7 +28,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse<
         user: {
             _id: "Dialogix Engine",
             name: "Dialogix Engine",
-            avatar: "https://links.papareact.com/89k"
+            avatar: "https://res.cloudinary.com/dcgi7rwsp/image/upload/v1694536265/dialogixengine/p41iz5vyidfpfewywwr4.jpg"
         }
     }
 
